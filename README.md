@@ -1,0 +1,1 @@
+# kalkulace-pr-ce-PC-HW-SW
