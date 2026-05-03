@@ -1,0 +1,17 @@
+{
+    "cpu_temp": "63,1 °C",
+    "cpu_ccd1": "51,9 °C",
+    "cpu_ccd2": "58,5 °C",
+    "cpu_usage": "6.4 %",
+    "cpu_power": "60,1 W",
+    "gpu_temp": "36,8 °C",
+    "gpu_mem": "50,0 °C",
+    "gpu_power": "59,9 W",
+    "gpu_usage": "21,0 %",
+    "ram_used": "25.6 %",
+    "ram_temp_dimm1": "56,0 °C",
+    "ram_temp_dimm3": "55,8 °C",
+    "mb_temp": "41,0 °C",
+    "nvme_temp": "55,0 °C",
+    "hdd_temp": "45,0 °C"
+}
