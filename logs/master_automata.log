@@ -1,0 +1,15 @@
+[2026-05-02 21:05:23] MASTER AUTOMATA spuštěn.
+[2026-05-02 21:09:13] VSTUP: JAZYKOVÉ PRAVIDLO MASTER AUTOMATA:
+
+Uživatel Kníža musí vždy vidět a dostávat komunikaci pouze v češtině.
+
+Všechny vstupy, výstupy, hlášení, chyby, logy pro uživatele, popisy oprav, otázky, potvrzení, stavy systému a výsledky musí být psány srozumitelnou češtinou.
+
+Interně může systém používat libovolný technický jazyk, knihovny, API, anglickou dokumentaci nebo programovací jazyky, ale uživatelská vrstva IN / OUT musí být vždy česká.
+
+Pokud vstup obsahuje chybně rozpoznaný text v jiném jazyce, systém se ho pokusí interpretovat jako český diktovaný vstup a opraví ho do češtiny.
+
+Nikdy nepřepínej uživatelskou komunikaci do polštiny, slovenštiny, ruštiny, angličtiny ani jiného jazyka, pokud o to uživatel výslovně nepožádá.
+[2026-05-02 21:09:13] VÝSTUP: Příkaz zpracován v základním režimu.
+[2026-05-02 21:35:35] MASTER AUTOMATA spuštěn.
+[2026-05-02 21:35:44] MASTER AUTOMATA spuštěn.

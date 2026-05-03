@@ -1,0 +1,10 @@
+﻿{
+  "name": "MASTER AUTOMATA",
+  "system": "SUPERTOPBOT AUTOMATA KNÍŽA",
+  "language": "cs",
+  "mode": "autonomous_safe",
+  "codex": true,
+  "guardian": true,
+  "backup_before_changes": true,
+  "log_everything": true
+}
